@@ -1,2 +1,5 @@
 git 練習
 基本的な
+
+.git add
+.git commit
