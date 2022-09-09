@@ -4,3 +4,4 @@ Gitの練習をしていきます
 ・git gommit
 ・git rm
 ・git status
+・git diff
